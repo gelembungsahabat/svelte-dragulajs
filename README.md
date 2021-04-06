@@ -1,3 +1,6 @@
+![Alt Text](https://cdn.discordapp.com/attachments/796178474762502168/828869926089392189/simplescreenrecorder-2021-04-06.gif)
+
+
 # Get started
 
 Kalo pen ngerun programnya, tinggal kek gini aja:
