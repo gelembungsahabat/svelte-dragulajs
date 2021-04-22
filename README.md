@@ -6,7 +6,7 @@
 Kalo pen ngerun programnya, tinggal kek gini aja:
 
 ```bash
-cd svelte-dragulajs
+cd todoapp-svelte-dragulajs
 npm install
 ```
 
